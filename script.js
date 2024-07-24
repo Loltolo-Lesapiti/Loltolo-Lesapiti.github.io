@@ -65,6 +65,18 @@ const cards = [
     cardButton: 'See Project',
     cardButton1: 'https://budgetaas.onrender.com/',
     cardButton2: 'https://github.com/Loltolo-Lesapiti/Budget-App',
+  },
+  {
+    class: 'flex',
+    header2: 'Math Magicians',
+    heading3: 'Petro',
+    list1: ['Full Stack Dev', '2021'],
+    paragraph: 'Math Magicians is a Single Page Application (SPA) designed for mathematics enthusiasts, offering a user-friendly calculator and a feature that displays random math-related quotes.',
+    desktopImage: './images/math.PNG',
+    list2: ['HTML', 'CSS', 'JavaScript'],
+    cardButton: 'See Project',
+    cardButton1: 'https://dynamic-tarsier-446611.netlify.app/calculator',
+    cardButton2: 'https://github.com/Loltolo-Lesapiti/Budget-App',
   }
 ];
 cards.forEach((card, index) => {
